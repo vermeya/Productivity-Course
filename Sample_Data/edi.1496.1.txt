@@ -1,0 +1,2056 @@
+
+  
+    uid=EDI,o=EDI,dc=edirepository,dc=orgall
+      https://orcid.org/0000-0003-2597-8921
+      all
+    
+    
+      public
+      read
+    
+  
+  
+    doi:10.6073/pasta/963a004e94689bde81adb38e1b792615COI and 18S metabarcoding data from Hidden Lake (Banff National Park, Canada) over two rotenone applications between 2018 and 2020.
+    
+      PhD Louis Astorg
+      Université du Québec à Trois-Rivière (UQTR)
+      			, Québec   Canada
+      louisastorg@msn.com
+      0000-0002-3256-7787
+    
+    
+      Msc Daphné Trépanier-Leroux
+      Université du Québec à Montréal
+      			, Québec   Canada
+      daphne.t.leroux@hotmail.com
+    
+    
+      PhD Matthew Yates
+      University of Quebec in Montreal
+      			, Québec   Canada
+      matthew.yates@outlook.com
+      0000-0002-9199-1078
+    
+    
+      Julien Beaulieu
+      Université du Québec à Montréal
+      			, Qc   Canada
+      julien-beaulieu@hotmail.ca
+      0000-0003-2597-8921
+    
+    
+      Prof. Dylan Fraser
+      Concordia University
+      			, Qc   Canada
+      dylan.fraser@concordia.ca
+      0000-0002-5686-7338
+    
+    
+      Prof. E. Cristescu
+      McGill University
+      			, Québec   Canada
+      melania.cristescu@mcgill.ca
+      0000-0002-0854-4040
+    
+    
+      Prof. Alison Derry
+      Université du Québec à Montréal
+      			, Québec   Canada
+      derry.alison@uqam.ca
+      0000-0001-5768-8027
+    
+    
+      Julien Beaulieu
+      Université du Québec à Montréal
+      			, Qc   Canada
+      julien-beaulieu@hotmail.ca
+      0000-0003-2597-8921
+    
+    2023-09-22      Water samples were taken in Hidden Lake at five different time points around two rotenone applications: (i) five weeks prior to the first rotenone application, on July 12 2018; (ii) approximately three weeks after the first application of rotenone, on 7 September 2018; (iii) approximately 10 months after the first rotenone application, on 10 July 2019; (iv) four weeks following the final treatment of rotenone on the 17 September 2019; and (v) one year after the final rotenone treatment, on 19 August 2020. For each time point there is a pelagic, a littoral and a profundal sample. COI and 18S metabarcoding methods were used to produce community data. The objective of this study was to assess the non-target effect of rotenone application (in summer 2018 and 2019) on aquatic communities (i.e. phytoplankton, fungi, zooplankton and benthic macroinvertebrates).
+
+    
+      Environmental DNA (eDNA)
+      18S
+      COI
+      Rotenone
+      Mountain lake
+      Exotic fish removal
+      Metabarcoding
+    
+    This information is released under the Creative Commons license - Attribution - CC BY (https://creativecommons.org/licenses/by/4.0/). The consumer of these data ("Data User" herein) is required to cite it appropriately in any publication that results from its use. The Data User should realize that these data may be actively used by others for ongoing research and that coordination may be necessary to prevent duplicate publication. The Data User is urged to contact the authors of these data if any questions about methodology or results occur. Where appropriate, the Data User is encouraged to consider collaboration or co-authorship with the authors. The Data User should realize that misinterpretation of data may occur if used out of context of the original study. While substantial efforts are made to ensure the accuracy of data and associated documentation, complete accuracy of data sets cannot be guaranteed. All data are made available "as is." The Data User should be aware, however, that data are updated periodically and it is the responsibility of the Data User to check for new versions of the data. The data authors and the repository where these data were obtained shall not be liable for damages resulting from any use or misinterpretation of the data. Thank you.
+    https://doi.org/10.6073/pasta/963a004e94689bde81adb38e1b792615
+      
+        Hidden Lake, Banff National Park, Alberta, Canada
+        
+          -116.10723
+          -116.10723
+          51.48443
+          51.48443
+        
+      
+      
+        
+          
+            2018
+          
+          
+            2020
+          
+        
+      
+    
+    
+              The data collection is done and the database complete.
+
+      notPlanned
+    
+    
+      Alison Derry
+      Université du Québec à Montréal
+      			, Québec   Canada
+      derry.alison@uqam.ca
+      0000-0001-5768-8027
+    
+    Environmental Data Initiativeinfo@edirepository.orghttps://edirepository.org0330j0z60Environmental Data Initiative
+      
+                  Study site:
+           	The focus of our study was Hidden Lake, Banff National Park, Canada, a high elevation mountain lake in the Canadian Rockies that received rotenone treatment during the summers of 2018 and 2019 to eradicate non-native brook trout (Salvelinus fontinalis) that were introduced and established in the 1970s, leading to the extirpation of a population of Westslope cutthroat trout (Oncorhynchus clarkii lewisi). The rotenone treatment was done accordingly to Montana State (USA) rotenone policy in the absence of a Canadian equivalent. This policy recommends two rotenone treatment for brook trout eradication because their spawning is not perfectly synchronous and because brook trout eggs in the gravel are not susceptible to rotenone (MFWP 2017). Moreover, several fish and traces of environmental DNA from brook trout were detected between the two rotenone treatments in summer 2018 and 2019. The rotenone formulation applied to Hidden Lake (21-22 Aug 2018 and 13 Aug 2019) was Nusyn-Noxfish® and contained 2.5 % rotenone active ingredient. The theoretical rotenone concentration of Hidden Lake once it penetrated the thermocline by pumping was 30 ppb and 25 ppb in 2018 and 2019 respectively (Parks Canada 2020).
+
+      
+      
+                  Samples collection: 
+          Environmental DNA samples were collected from Hidden Lake around rotenone application at five time points to allow the assessment of short-term (weeks) and mid-term (1-2 years) impact and recovery: (i) five weeks prior to the first rotenone application, from Hidden Lake only on July 12 2018; (ii) approximately three weeks after the first application of rotenone, from Hidden Lake and Hidden Creek on 7 September 2018 and from Corral Creek on 9 September 2018; (iii) approximately 10 months after the first rotenone application, on 10 July 2019 on Corral Creek and Hidden Creek and 11 July 2019 on Hidden Lake; (iv) four weeks following the final treatment of rotenone from Hidden Lake on the 17 September 2019 (for metabarcoding only); and (v) one year after the final rotenone treatment, on 19 August 2020 in Hidden Lake, Hidden creek and Corral creek. Because of travel restrictions associated with the COVID19 pandemic for university researchers, eDNA samples from the fifth period (one year after 2nd rotenone treatment) were collected and analyzed by Aquality Environmental Consulting Ltd (Calgary, Alberta) using similar field sampling and laboratory analytical protocols (see methods below for further details). 
+          Sample sites on Hidden Lake were equidistantly distributed throughout the lake, with four samples collected in both the littoral and pelagic zones of the lake for each sampling event, with two 700 ml Whirl-Pak™ bags per site and from a bleached inflatable kayak. The four littoral samples were collected approximately 1-3 m from the shore at a minimum depth of 30 cm but approximately 15 cm above the lakebed to avoid the collection of sediments, which can both inhibit downstream DNA applications and represent a significant source of potential DNA contamination (Turner et al. 2014). Four pelagic samples were collected in a transect along the longest axis of the lake from the surface waters of the euphotic zone at a depth of approximately 0.5 to 1.0 m. Two profundal samples were also collected at 1 m above the bottom of the lake from the deepest part of the lake for each sampling event, each using a bleached Van Dorn water sampler. In total, this made 8 samples per time point for brook trout presence assessment and 10 samples per time point for monitoring of ecological communities.
+
+      
+      
+                  Filtering and DNA extraction:
+          eDNA samples from 2018 and 2019 were immediately filtered on the lakeshore or streamside on a chlorophyll filtering manifold (Wildco, Florida, USA). One liter of water from each site was filtered through a 0.7 µm glass fibre filter (GE Healthcare Life Sciences, Ontario, Canada) using a vacuum hand pump (Soil Moisture, California, USA). As a negative control, 500 mL of distilled water was filtered prior to filtering lake or stream samples for each day of field work. After filtration, filters were folded and stored in a sterile 2 mL microcentrifuge tube containing 700 µL of ATL buffer that was then labelled and individually sealed in a zippered plastic bag. Filters were immediately placed in a cooler bag containing two frozen gel packs, and transported to a -20 ℃ freezer right away, until they were driven to Montreal while stored on dry ice. In Montréal, filters were stored in a -80 ℃ freezer until further analyses. 
+          At one year after the final rotenone treatment, water samples were also collected from an unnamed water source known to contain brook trout as a positive field control. A negative control sample composed of 1 L of Lake Louise municipality tap water was also filtered on site. eDNA samples were immediately chilled for the duration of transport (36 hours) back to the laboratory where they were frozen in a -20 ℃ freezer until extraction. Due to differences in the teams conducting the sampling, water samples from 2020 were pumped through self-preserving, single use, 1.2 µm polyethersulfone (PES) filter membrane apparatuses (Thomas et al. 2019). Although sub-optimal, the differences in methods likely had little impact on the results because the total number of eDNA copies were well within the standard deviation of the other samples for 18S, and although slightly lower for COI, we detected communities similar to pre-rotenone for many (but not all) taxa for the 2020 sampling period.
+          
+          DNA from each filter was extracted using Qiagen DNeasy Blood and TissueTM kit and QiashredderTM columns following a modified extraction protocol (see Appendix A in Yates et al. (2020) for details). Extracted DNA was eluted into 130 µL of AE buffer and stored in a clean -20 ℃ freezer solely dedicated to the storage of extracted eDNA product (i.e. no post-PCR products or tissue samples). An extraction blank of 700 µL of ATL buffer was included in all batches. Environmental DNA samples from 2020 were extracted from filters using the same Qiagen DneasyTM Blood and Tissue kit as for the other samples, but without the Qiashredder spin columns and following manufacturer’s protocol, with the exception that during lysis filters were beat with 1-mm silicacarbide beads for 10 min on high using a Bead Mill Homogenizer (Fisher Scientific).
+
+      
+      
+                  PCR Cytochrome oxidase I (COI): 
+          The forward COI primer sequence (Leray et al. 2013):
+          
+          5’-TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGGGWACWGGWTGAA CWGTWTAYCCYCC-3’ 
+          
+          and the reverse primer sequence (Leray et al. 2013):
+          
+          5’-GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGTAAACTTCAGGGTGAC CAAAAAATCA-3’
+          
+          PCR amplification was performed in a total volume of 12.5μL with 8.215μL of nuclease free water, 1.25 μL of 10X buffer (genscript), 0.35μL of dNTPs, 0.1μL of BSA, 0.2μL of forward primer, 0.2μL of reverse primer, 0.06μL of Taq DNA polymerase (GenScript Biotech Corporation, New Jersey) and 2μL of DNA. A slight alteration to this protocol (total reaction volume was 14,5μL, with 4μL of DNA) was used for 2020 samples due to difficulty in successfully amplifying eDNA.
+          
+          Three replicates per sample were PCR amplified. Because of the high level of degeneracy in primer sequences, a “touchdown” PCR profile was used to minimize the probability of non-specific amplifications. Sixteen initial cycles were carried out: denaturation for 10s at 95°C, annealing for 30s at 62°C (−1°C per cycle) and extension for 60s at 72°C, followed by 25 cycles at 46°C annealing temperature following the Leray et al. protocol (2013). Replicates were then pooled for each sample. The success of each PCR amplification was checked on a 1% agarose gel. Samples were then pooled according to their origin in the lake (i.e. profundal, littoral, pelagic, negative controls for each sampling period) for sequencing. The pooled samples were then cleaned using AMPure XP beads (Beckman Coulter, Indianapolis, IN, USA) using the advised manufacturer’s protocol. The cleaned samples were then indexed using TG Nextera® XT Index Kit v2 Set A (96 Indices, 384 Samples) preparation protocol.
+
+      
+      
+                  PCR 18S:
+          
+          The forward 18S primer sequence was 960F (Gast et al. 2004): 
+          
+          5’-GGCTTAATTTGACTCAACRCG-3’ 
+          
+          and the reverse primer sequence was NSR1438 (Van de Peer et al. 2000): 
+          
+          5’- GGGCATCACAGACCTGTTAT-3’
+          
+          One twostep PCR was done per sample. The final concentrations of the specific PCR amplification reactions were: 1X 5x Phusion HF buffer, 0.2 mM dNTPs mix, 3% DMSO, 0.4 uM forward and reverse primers and 0.02 U/ul Phusion Hot Start II DNA polymerase. The PCR regime for specific amplification started with denaturation for 45 s at 98 C, followed by 33 cycles of: 30 s at 55 C and 30 s at 72 C. After these 33 cycles, plates were maintained at 72 C for 10 min. The final concentrations for the barcoding were: 1X 5x Phusion HF buffer, 0.2 mM dNTPs mix, 3% DMSO and 0.02 U/ul Phusion Hot Start II DNA polymerase. The PCR regime for barcoding started with denaturation for 30 s at 98 C followed by 15 cycles of: 15 s at 98 C, 30 s at 60 C and 30 s at 72 C. After these 15 cycles the plates were maintained at 72 C for 10 min and holed at 8 C. Samples were then pooled according to their origin in the lake (i.e. profundal, littoral, pelagic, negative controls for each sampling period) for sequencing. Samples were diluted 1/50 before sequencing.
+
+      
+      
+                  Sequencing:
+          
+          Amplicons were quantified with Qubit fluorometric quantification and purified with NucleoMag magnetic bead (ratio 0.85). The quality control for the library was as follow: Library was quantified using the Qubit™ dsDNA HS Assay Kit (Invitrogen™) and the NEBNext® Library Quant Kit for Illumina® (New England BioLabs). Average size fragment was determined using a Bioanalyzer (Agilent) instrument. Before sequencing, Phix control library (Illumina) was spiked (15 %) into the amplicon pool (library) to improve the unbalanced base composition. Sequencing was done on a Miseq using a MiSeq reagent kit v3 (600-cycles; Illumina).
+
+      
+      
+                  Bioinformatic:
+          
+          Samples were received as demultiplexed fastq files, and custom scripts were used to remove adapters, merge paired sequences, check quality, and generate amplicon sequencing variants (ASVs) for 18S and COI sequences using the DADA2 pipeline (Callahan et al. 2016) for R (v4.2.1, CoreTeam 2020). Details can be found in Appendix 1. The generation of ASVs has several advantages over operational taxonomic units (OTUs) including finer resolution, accurate measures of diversity and easy comparison between independently processed datasets (Callahan et al. 2017). Molecular operational taxonomic units (MOTUs) were examined for species-level information (Antich et al. 2021), but provided no additional information over the ASVs.
+          Non-biological nucleotides were removed (primers, indices and adapters) using Cutadapt (v4.1, Martin 2011), for both 18S and COI sequences. Untrimmed sequences were also discarded for both primer sequences. After inspection of reads quality profile (Appendix 2, Fig. SM1-SM4), 18S forward and reverse reads were trimmed to 200bp and COI forward and reverse reads were trimmed to 270bp and 240bp respectively using the standard filtering parameters described in the DADA2 tutorial (https://benjjneb.github.io/dada2/tutorial.html). After estimation of error rates (Appendix 3 Fig. SM5-SM8), sequences were dereplicated using the core sample inference algorithm (Callahan et al. 2016) and then merged to obtain the full denoised sequences (ASVs). Chimeric sequences were removed before assigning taxonomy. For 18S sequences taxonomic assignment, we used the IDTAXA algorithm (Murali et al. 2018) implementation of the DECIPHER R package on the PR2 reference database (v4.14.0, https://github.com/pr2database/pr2database/releases) while COI sequences’s assignments were performed using the BOLD identification system API (Ratnasingham and Hebert 2007) with BOLDigger (Buchner and Leese 2020) using the JAMP pipeline option for finding best fitting hits (details on the BOLDigger options are available at https://github.com/DominikBuchner/BOLDigger). Likely contaminant sequences based on blank samples were removed using the decontam R package, taking into account the prevalence and frequency of the sequences (Davis et al. 2018, https://github.com/benjjneb/decontam). No relationship between sequencing depth and ASV diversity were found for either 18S and COI datasets
+
+      
+      
+                  Contamination prevention:
+          All lake samples were collected from an inflatable kayak that was decontaminated 48 h prior to sampling by a complete soaking in a 2% household bleach solution for 15 minutes. The kayak paddle and life jacket used were similarly decontaminated. All samples were collected with Whirl-Pak™ bags (Uline, Ontario, Canada) while the individual collecting the sample wore sterile nitrile gloves. The vacuum hand pump (Soil Moisture, California, USA) used for filtration was wiped with a 30% household bleach solution and allowed to rest for ten minutes before rinsing with distilled water before the sampling day. The filtering manifold components were soaked in a 30% household bleach solution for a duration of 8 minutes and rinsed with distilled water between each sample to avoid cross-contamination of eDNA. Filters were handled with a pair of metal forceps that were soaked in a 30% household bleach solution for 8 minutes between sample filtrations before rinsing in distilled water. 
+          For transport, manifolds were transported in a backpack cooler (Polar Bear Coolers, Georgia, USA) whose interior was wiped with a 30% bleach solution and allowed to rest for ten minutes before rinsing with distilled water. Manifold components were stored in sealed individual plastic zippered bags for transportation to Hidden Lake and Corral Creek. Writing utensils (pencils and markers) were also wiped with a 30% bleach solution and stored in zippered bags. The cooler bag used to keep eDNA samples cold and transportation was decontaminated by wiping with a 30% household bleach solution and allowed to rest for 10 minutes before rinsing with distilled water. This freezer contained two frozen gel packs that were decontaminated by soaking in 30% household bleach solution for ten minutes and rinsing with distilled water. Filters were immediately transported to Kootenay crossing, where they were stored in a zippered plastic bag in a -20 ℃ freezer that was previously decontaminated by wiping with a 30% household bleach solution.
+
+      
+      
+                  Aquality methods:
+          Field
+          The 2020 set of eDNA samples were collected following the second rotenone application, with an emphasis on and additional stream site within the watershed (see figure 2 d). Two additional sites were added on a tributary stream flowing into Hidden Creek that was identified as potential spawning grounds and rearing habitat for juveniles. Triplicate 1 L sample replicates were collected per site using a backpack eDNA sampler (Smith-Root, WA, USA) following manufacturer recommendations. Clogged filters at some sites resulted in less than 1 L being collected on some replicates and greater than 1 L on others; however, 3 L total were filtered at all sites except for CC14, where only 1 L total of water was collected due to filter clogging. Samples were collected instream from pool habitats without entering the stream.
+          Filtering
+          Water was pumped through self-preserving polyethersulfone (PES) filter membrane apparatuses (Thomas et al. 2019). Samples in Hidden Lake were collected via an inflatable kayak. As a positive field control, water samples were also collected from an unnamed water course known to contain brook trout. A negative control sample composed of 1 L of Lake Louise tap water was also filtered on site. Environmental DNA samples were immediately chilled for the duration of transport (36 hours) back to the laboratory where they were immediately frozen in a -20 ℃ freezer until extraction.
+          DNA extractions
+          Environmental DNA was extracted from filters using a Qiagen DNeasyTM Blood and Tissue kit following manufacturer’s protocol, with the exception that during lysis filters were beat with 1-mm silicacarbide beads for 10 min on high using a vortex. Environmental DNA analysis was conducted within a laboratory workflow which included separate clean rooms, pre-amplification, post-amplification, and DNA extraction spaces to prevent sample cross-contamination.
+
+      
+      
+                  References:
+          Canada Parks. 2020. Summary report for the chemical removal of brook trout from Hidden Lake, Upper Corral Creek and Tributaries. Radium Hot-Springs (BC): Internal Report.
+          Callahan BJ, McMurdie PJ, Rosen MJ, Han AW, Johnson AJA, Holmes SP. 2016. DADA2: High-resolution sample inference from Illumina amplicon data. Nat Methods. 13(7):581–583.
+          Davis NM, Proctor DiM, Holmes SP, Relman DA, Callahan BJ. 2018. Simple statistical identification and removal of contaminant sequences in marker-gene and metagenomics data. Microbiome. 6(1):1–14.
+          Gast RJ, Dennett MR, Caron DA. 2004. Characterization of protistan assemblages in the ross sea, antarctica, by denaturing gradient gel electrophoresis. American Society for Microbiology. 70(4):2028–2037. 
+          Leray M, Yang JY, Meyer CP, Mills SC, Agudelo N, Ranwez V, Boehm JT, Machida RJ. 2013. A new versatile primer set targeting a short fragment of the mitochondrial COI region for metabarcoding metazoan diversity: Application for characterizing coral reef fish gut contents. Front Zool. 10(1):1–14. 
+          [MFWP] Montana Fish Wildlife and Parks: Fisheries Division. 2017. Montana rotenone policy. Approved by: Eileen Ryce, Fisheries Division Administrator. Issued Apr 18, 1996. Revised Apr 5, 2017.
+          Van de Peer Y, Baldaufrid SL, Doolittle WF, Meyerid A. 2000. An updated and comprehensive rRNA phylogeny of (crown) eukaryotes based on rate-calibrated evolutionary distances. J Mol Evol. 51(6):565–576. 
+          Thomas AC, Nguyen PL, Howard J, Goldberg CS. 2019. A self-preserving, partially biodegradable eDNA filter. Methods Ecol Evol. 10(8):1136–1141. 
+          Trépanier-Leroux D, Yates MC, Astorg L, Fraser DJ, Humphries S, Cristescu ME, Derry AM. 2023. Density-dependent effects of exotic brook trout on aquatic communities in mountain lakes revealed by environmental DNA and morphological taxonomy. Hydrobiologia. In press
+          Turner CR, Uy KL, Everhart RC. 2015. Fish environmental DNA is more concentrated in aquatic sediments than surface water. Biol Conserv. 183:93–102.
+
+      
+    
+    
+      Environmental DNA for assessing impact and recovery  of aquatic communities in an invaded mountain lake
+      
+        Prof. Alison Derry
+        Université du Québec à Montréal
+        			, Québec   Canada
+        derry.alison@uqam.ca
+        Professor
+      
+      
+        Prof. Dylan Fraser
+        Concordia University
+        			, Qc   Canada
+        dylan.fraser@concordia.ca
+        Professor
+      
+      
+        Melania Cristescu
+        McGill University
+        			, Québec   Canada
+        melania.cristescu@mcgill.ca
+        Professor
+      
+              The eradication of invasive species and associated side-effects that influence the re-establishment of biological communities is a major challenge for conservation management of invaded ecosystems. We present a before-and-after-disturbance whole lake manipulation study from a high-elevation mountain lake in which we applied a two-pronged approach to environmental DNA (eDNA) for assessing 1) impact and recovery of aquatic communities to the chemical eradication of invasive Brook Trout (Salvelinus fontinalis), and 2) the success of chemical eradication of the invasive fish. Using 18S and cytochrome oxidase I (COI) eDNA metabarcoding, we contribute to a paucity of literature that has comprehensively addressed non-target effects of rotenone for invasive fish eradication on aquatic communities. We found that key trophic groups (phytoplankton, fungi, zooplankton, and macroinvertebrates) changed in community composition in response to rotenone applications. Fungi and macroinvertebrates, but not zooplankton and phytoplankton, reverted back towards pre-rotenone communities over the time scale of two years. However, COI failed to detect several key species for food web re-establishment that were detected using physical specimen collection, likely due to low primer efficiency. We also found that quantitative PCR (qPCR), using species-specific primers, was effective for detecting brook trout presence/absence, although strong eDNA signals likely produced from carcasses in the ecosystem limited the utility of eDNA immediately following rotenone treatment. We provide specific recommendations for lake managers for the future application of eDNA approaches to monitor invasive fish eradication efforts and non-target community effects for lake ecosystem restoration.
+
+      
+        Fonds de Recherche du Québec – Nature et Technologie (FRQNT)
+        254557
+        L'ADN environnemental utilisé comme révélateur des conséquences des méthodes de pêche sur la productivité des poissons et sur la biodiversité des communauté des écosystèmes lacustres
+      
+      
+        Natural Sciences and Engineering Research Council of Canada (NSERC Strategic Project grant)
+        494015-16
+        From genes to ecosystems: an eco-evolutionary assessment of alternative harvesting approaches and consequences for fisheries productivity
+      
+    
+    
+      ASVs_18S_taxonomy-no-contam_PR2
+      Taxonomic assignment of each ASVs in each sample for 18S after contamination removal
+      
+        ASVs_18S_taxonomy-no-contam_PR2.csv
+        244088
+        eaf7934e9be32917b308f29a3ae60ca9
+        
+          
+            1
+            \r\n
+            column
+            
+              ;
+              "
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/edi/1496/1/9de52e561afa660f9c46ecc0018ac0df
+          
+        
+      
+      
+        
+          DNA_SEQ
+          DNA_SEQ
+          Sequence of the ASV
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+          
+            NA
+            NA
+          
+        
+        
+          ASV
+          ASV
+          ASV number(ID)
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          Kingdom
+          Kingdom
+          Kingdom assigned the ASV
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+          
+            NA
+            NA
+          
+        
+        
+          Supergroup
+          Supergroup
+          Supergroup assigned to the ASV
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+          
+            NA
+            NA
+          
+        
+        
+          Division
+          Division
+          Division assigned to the ASV
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+          
+            NA
+            NA
+          
+        
+        
+          Class
+          Class
+          Class assigned to the ASV
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+          
+            NA
+            NA
+          
+        
+        
+          Order
+          Order
+          Order assigned to the ASV
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+          
+            NA
+            NA
+          
+        
+        
+          Family
+          Family
+          Family assigned to the ASV
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+          
+            NA
+            NA
+          
+        
+        
+          Genus
+          Genus
+          Genus assigned to the ASV
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+          
+            NA
+            NA
+          
+        
+        
+          Species
+          Species
+          Specie assigned to the ASV
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+          
+            NA
+            NA
+          
+        
+        
+          BOOT_Kingdom
+          BOOT_Kingdom
+          Confidence level of taxonomic assignment the this taxonomic level (%)
+          float
+          
+            
+              
+                %
+              
+              
+                integer
+              
+            
+          
+        
+        
+          BOOT_Supergroup
+          BOOT_Supergroup
+          Confidence level of taxonomic assignment the this taxonomic level (%)
+          float
+          
+            
+              
+                %
+              
+              
+                integer
+              
+            
+          
+        
+        
+          BOOT_Division
+          BOOT_Division
+          Confidence level of taxonomic assignment the this taxonomic level (%)
+          float
+          
+            
+              
+                %
+              
+              
+                integer
+              
+            
+          
+        
+        
+          BOOT_Class
+          BOOT_Class
+          Confidence level of taxonomic assignment the this taxonomic level (%)
+          float
+          
+            
+              
+                %
+              
+              
+                integer
+              
+            
+          
+        
+        
+          BOOT_Order
+          BOOT_Order
+          Confidence level of taxonomic assignment the this taxonomic level (%)
+          float
+          
+            
+              
+                %
+              
+              
+                integer
+              
+            
+          
+        
+        
+          BOOT_Family
+          BOOT_Family
+          Confidence level of taxonomic assignment the this taxonomic level (%)
+          float
+          
+            
+              
+                %
+              
+              
+                integer
+              
+            
+          
+        
+        
+          BOOT_Genus
+          BOOT_Genus
+          Confidence level of taxonomic assignment the this taxonomic level (%)
+          float
+          
+            
+              
+                %
+              
+              
+                integer
+              
+            
+          
+        
+        
+          BOOT_Species
+          BOOT_Species
+          Confidence level of taxonomic assignment the this taxonomic level (%)
+          float
+          
+            
+              
+                %
+              
+              
+                integer
+              
+            
+          
+        
+      
+      no
+      704
+    
+    
+      ASVs_18S_count-no-contam_PR2
+      Number of reads of each ASVs in each sample for 18S after contamination removal.
+      
+        ASVs_18S_count-no-contam_PR2.csv
+        193514
+        ab7e7f0488c5fa188732c9b5cd841395
+        
+          
+            1
+            \r\n
+            column
+            
+              ;
+              "
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/edi/1496/1/49c5e199fff265a6fca37e4dc3613898
+          
+        
+      
+      
+        
+          DNA_SEQ
+          DNA_SEQ
+          Sequence of the ASV
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          ASV
+          ASV
+          ASV number(ID)
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          Rockies-HD-EB
+          Rockies-HD-EB
+          Number of reads of each ASV in the extraction blanks (all extraction blanks pooled)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD-FB
+          Rockies-HD-FB
+          Number of reads of each ASV in the field blanks (all field blanks pooled)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD18J-B
+          Rockies-HD18J-B
+          Reads from the benthic/profundal strata in July 2018 (5 weeks before rotenone)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD18J-L
+          Rockies-HD18J-L
+          Reads from the Littoral strata in July 2018 (5 weeks before rotenone)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD18J-P
+          Rockies-HD18J-P
+          Reads from the pelagic strata in July 2018 (5 weeks before rotenone)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD18S-B
+          Rockies-HD18S-B
+          Reads from the benthic/profundal strata in September 2018 (3 weeks after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD18S-L
+          Rockies-HD18S-L
+          Reads from the Littoral strata in September 2018 (3 weeks after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD18S-P
+          Rockies-HD18S-P
+          September 2018 (3 weeks after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD19J-B
+          Rockies-HD19J-B
+          Reads from the benthic/profundal strata in July 2019 (10 months after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD19J-L
+          Rockies-HD19J-L
+          Reads from the Littoral strata in July 2019 (10 months after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD19J-P
+          Rockies-HD19J-P
+          Reads from the pelagic strata in July 2019 (10 months after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD19S-B
+          Rockies-HD19S-B
+          Reads from the benthic/profundal strata in September 2019 (4 weeks after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD19S-L
+          Rockies-HD19S-L
+          Reads from the Littoral strata in September 2019 (4 weeks after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD19S-P
+          Rockies-HD19S-P
+          Reads from the pelagic strata in September 2019 (4 weeks after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD20-L
+          Rockies-HD20-L
+          Reads from the Littoral strata in 2020 (one year after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD20-P
+          Rockies-HD20-P
+          Reads from the pelagic strata in 2020 (one year after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-PCR-ctrl-neg
+          Rockies-PCR-ctrl-neg
+          Reads from the negative controls (pooled)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                real
+              
+            
+          
+        
+      
+      no
+      704
+    
+    
+      ASVs_counts-no-contam_COI_2
+      Number of reads of each ASVs in each sample for COI after contamination removal.
+      
+        ASVs_counts-no-contam_COI_2.csv
+        700907
+        627fe573e4ae7672b3e5f34048dd0324
+        
+          
+            1
+            \r\n
+            column
+            
+              ;
+              "
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/edi/1496/1/9afa4d2a83cc2e834a1424d0c79e507a
+          
+        
+      
+      
+        
+          DNA_SEQ
+          DNA_SEQ
+          Sequence of the ASV
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          ASV
+          ASV
+          ASV number(ID)
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          Blank-AQ
+          Blank-AQ
+          Number of reads of each ASV in the extraction blanks (all extraction blanks pooled)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                real
+              
+            
+          
+        
+        
+          Blank-HD
+          Blank-HD
+          Number of reads of each ASV in the field blanks (all field blanks pooled)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD18J-B
+          HD18J-B
+          Reads from the benthic/profundal strata in July 2018 (5 weeks before rotenone)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD18J-L
+          HD18J-L
+          Reads from the Littoral strata in July 2018 (5 weeks before rotenone)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD18J-P
+          HD18J-P
+          Reads from the pelagic strata in July 2018 (5 weeks before rotenone)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD18S-B
+          HD18S-B
+          Reads from the benthic/profundal strata in September 2018 (3 weeks after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD18S-L
+          HD18S-L
+          Reads from the Littoral strata in September 2018 (3 weeks after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD18S-P
+          HD18S-P
+          September 2018 (3 weeks after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD19J-B
+          HD19J-B
+          Reads from the benthic/profundal strata in July 2019 (10 months after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD19J-L
+          HD19J-L
+          Reads from the Littoral strata in July 2019 (10 months after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD19J-P
+          HD19J-P
+          Reads from the pelagic strata in July 2019 (10 months after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD19S-B
+          HD19S-B
+          Reads from the benthic/profundal strata in September 2019 (4 weeks after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD19S-L
+          HD19S-L
+          Reads from the Littoral strata in September 2019 (4 weeks after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD19S-P
+          HD19S-P
+          Reads from the pelagic strata in September 2019 (4 weeks after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD20-L
+          HD20-L
+          Reads from the Littoral strata in 2020 (one year after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD20-P
+          HD20-P
+          Reads from the pelagic strata in 2020 (one year after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+      
+      no
+      1966
+    
+    
+      ASVs_taxonomy-no-contam_COI_2
+      Taxonomic assignment of each ASVs in each sample for 18S after contamination removal.
+      
+        ASVs_taxonomy-no-contam_COI_2.csv
+        775659
+        5416e922bbdfd29da86017d023b60783
+        
+          
+            1
+            \r\n
+            column
+            
+              ;
+              "
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/edi/1496/1/38bbbf95b39907390701a0988dd4f18f
+          
+        
+      
+      
+        
+          DNA_SEQ
+          DNA_SEQ
+          Sequence of the ASV
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          ASV
+          ASV
+          ASV number(ID)
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          Phylum
+          Phylum
+          Phylum assigned the ASV
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          Class
+          Class
+          Class assigned to the ASV
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          Order
+          Order
+          Order assigned to the ASV
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          Family
+          Family
+          Family assigned to the ASV
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          Genus
+          Genus
+          Genus assigned to the ASV
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          Species
+          Species
+          Specie assigned to the ASV
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          Similarity
+          Similarity
+          Similarity to reference sequence
+          float
+          
+            
+              
+                Higher = better
+              
+              
+                real
+              
+            
+          
+          
+            NA
+            NA
+          
+        
+        
+          Status
+          Status
+          Status of the reference sequence
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+          
+            NA
+            NA
+          
+        
+      
+      no
+      1966
+    
+    
+      OTU_table_18S
+      Number of reads of each OTU in each sample for 18S after contamination removal.
+      
+        OTU_table_18S.csv
+        20882
+        df20af2908b1221a053002e893144cd5
+        
+          
+            1
+            \n
+            column
+            
+              ,
+              "
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/edi/1496/1/5e9932cd16cd574d3893b7b63f4bf8b1
+          
+        
+      
+      
+        
+          cluster
+          cluster
+          OTU ID
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          Rockies-HD-EB
+          Rockies-HD-EB
+          Number of reads of each OTU in the extraction blanks (all extraction blanks pooled)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD-FB
+          Rockies-HD-FB
+          Number of reads of each OTU in the field blanks (all field blanks pooled)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD18J-B
+          Rockies-HD18J-B
+          Reads from the benthic/profundal strata in July 2018 (5 weeks before rotenone)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD18J-L
+          Rockies-HD18J-L
+          Reads from the Littoral strata in July 2018 (5 weeks before rotenone)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD18J-P
+          Rockies-HD18J-P
+          Reads from the pelagic strata in July 2018 (5 weeks before rotenone)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD18S-B
+          Rockies-HD18S-B
+          Reads from the benthic/profundal strata in September 2018 (3 weeks after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD18S-L
+          Rockies-HD18S-L
+          Reads from the Littoral strata in September 2018 (3 weeks after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD18S-P
+          Rockies-HD18S-P
+          September 2018 (3 weeks after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD19J-B
+          Rockies-HD19J-B
+          Reads from the benthic/profundal strata in July 2019 (10 months after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD19J-L
+          Rockies-HD19J-L
+          Reads from the Littoral strata in July 2019 (10 months after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD19J-P
+          Rockies-HD19J-P
+          Reads from the pelagic strata in July 2019 (10 months after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD19S-B
+          Rockies-HD19S-B
+          Reads from the benthic/profundal strata in September 2019 (4 weeks after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD19S-L
+          Rockies-HD19S-L
+          Reads from the Littoral strata in September 2019 (4 weeks after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD19S-P
+          Rockies-HD19S-P
+          Reads from the pelagic strata in September 2019 (4 weeks after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD20-L
+          Rockies-HD20-L
+          Reads from the Littoral strata in 2020 (one year after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-HD20-P
+          Rockies-HD20-P
+          Reads from the pelagic strata in 2020 (one year after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          Rockies-PCR-ctrl-neg
+          Rockies-PCR-ctrl-neg
+          Reads from the negative controls (pooled)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                real
+              
+            
+          
+        
+      
+      no
+      462
+    
+    
+      OTU_table_COI
+      Number of reads of each OTU in each sample for COI after contamination removal.
+      
+        OTU_table_COI.csv
+        68644
+        8056b4986e32f6e2f70a2b908a77ad54
+        
+          
+            1
+            \n
+            column
+            
+              ,
+              "
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/edi/1496/1/c24dfcf0d3a770ab5abf2d8789f7a2f1
+          
+        
+      
+      
+        
+          cluster
+          cluster
+          OTU ID
+          string
+          
+            
+              
+                
+                  text
+                
+              
+            
+          
+        
+        
+          Blank-AQ-Derry
+          Blank-AQ-Derry
+          Number of reads of each OTU in the extraction blanks (all extraction blanks pooled)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                real
+              
+            
+          
+        
+        
+          Blank-HD-Derry
+          Blank-HD-Derry
+          Number of reads of each OTU in the field blanks (all field blanks pooled)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD18J-B-Derry
+          HD18J-B-Derry
+          Reads from the benthic/profundal strata in July 2018 (5 weeks before rotenone)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD18J-L-Derry
+          HD18J-L-Derry
+          Reads from the Littoral strata in July 2018 (5 weeks before rotenone)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD18J-P-Derry
+          HD18J-P-Derry
+          Reads from the pelagic strata in July 2018 (5 weeks before rotenone)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD18S-B-Derry
+          HD18S-B-Derry
+          Reads from the benthic/profundal strata in September 2018 (3 weeks after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD18S-L-Derry
+          HD18S-L-Derry
+          Reads from the Littoral strata in September 2018 (3 weeks after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD18S-P-Derry
+          HD18S-P-Derry
+          September 2018 (3 weeks after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD19J-B-Derry
+          HD19J-B-Derry
+          Reads from the benthic/profundal strata in July 2019 (10 months after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD19J-L-Derry
+          HD19J-L-Derry
+          Reads from the Littoral strata in July 2019 (10 months after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD19J-P-Derry
+          HD19J-P-Derry
+          Reads from the pelagic strata in July 2019 (10 months after the first rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD19S-B-Derry
+          HD19S-B-Derry
+          Reads from the benthic/profundal strata in September 2019 (4 weeks after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD19S-L-Derry
+          HD19S-L-Derry
+          Reads from the Littoral strata in September 2019 (4 weeks after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD19S-P-Derry
+          HD19S-P-Derry
+          Reads from the pelagic strata in September 2019 (4 weeks after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD20-L-Derry
+          HD20-L-Derry
+          Reads from the Littoral strata in 2020 (one year after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+        
+          HD20-P-Derry
+          HD20-P-Derry
+          Reads from the pelagic strata in 2020 (one year after the second rotenone application)
+          float
+          
+            
+              
+                Copy number
+              
+              
+                integer
+              
+            
+          
+        
+      
+      no
+      1682
+    
+  
+  
+    
+      
+        
+          
+        
+        
+          
+        
+        
+          Higher = better
+        
+      
+    
+  
+  
+    
+      
+    
+  

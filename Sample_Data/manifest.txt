@@ -1,0 +1,10 @@
+Manifest file for edi.1496.1.zip created on Fri Sep 27 05:38:00 UTC 2024
+ASVs_18S_taxonomy-no-contam_PR2.csv (244088 bytes)
+ASVs_18S_count-no-contam_PR2.csv (193514 bytes)
+ASVs_counts-no-contam_COI_2.csv (700907 bytes)
+ASVs_taxonomy-no-contam_COI_2.csv (775659 bytes)
+OTU_table_18S.csv (20882 bytes)
+OTU_table_COI.csv (68644 bytes)
+edi.1496.1.xml (111017 bytes)
+edi.1496.1.txt (61807 bytes)
+edi.1496.1.report.xml (130989 bytes)

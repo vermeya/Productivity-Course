@@ -46,5 +46,5 @@ if (file.exists(file_path)) {
 plot(loaded_data$time, loaded_data$value, type="l", xlab="Year", ylab="Spotted Gar Sightings")
 ```
 
-As observed in the plot above, as time progressed the population of spotted gar gradually increased at a steady pace. Changes in seasonality impacted the populations, with winters showing a steady dip, and summers being the annual population peak.
+As observed in the plot above, as time progressed the population of spotted gar gradually increased at a steady pace. Changes in seasonality impacted the population sighting, with winters showing a steady dip, and summers being the annual population peak as during summer more visitors are at the park able to view sightings.
 

@@ -14,3 +14,11 @@ write.csv(dataset, "./00_rawdata/data.csv")
 #add to git (git add .)
 #commit (git commit -m "This is a test for git commit")
 #push (git push)
+
+
+
+
+
+
+
+

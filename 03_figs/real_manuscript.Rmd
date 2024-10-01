@@ -1,0 +1,50 @@
+---
+title: "My Project Manuscript"
+author: "Andrew Vermey"
+date: "30/09/2024"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Source: (Macher et al. 2024)
+
+## Introduction
+Welcome to my sample manuscript for my assignment. Here I took sample data on spotted gar sightings to use as a reference of my abilities. This manuscript will visually show some of this data and discuses the results. 
+
+## My Data 
+A table of my data
+
+```{r load_data_full_path, echo=FALSE}
+# Expand the file path to ensure R can interpret the "~" symbol
+file_path <- path.expand("~/Desktop/Productivity-Course/00_rawdata/data.csv")
+
+# Check if the file exists before loading
+if (file.exists(file_path)) {
+    loaded_data <- read.csv(file_path)
+    
+    # Check for empty column names
+    if (any(colnames(loaded_data) == "")) {
+        stop("Error: Empty column names in the dataset.")
+    } else {
+        # Display the summary if the data is loaded properly
+        print(colnames(loaded_data))  # Print column names to check
+        summary(loaded_data)
+    }
+} else {
+    stop("Error: Data file not found!")
+}
+```
+
+
+## Plot
+
+```{r plot_data, echo=FALSE}
+# Plotting the data
+plot(loaded_data$time, loaded_data$value, type="l", xlab="Year", ylab="Spotted Gar Sightings")
+```
+
+As observed in the plot above, as time progressed the population of spotted gar gradually increased at a steady pace. Changes in seasonality impacted the populations, with winters showing a steady dip, and summers being the annual population peak.
+

@@ -1,0 +1,260 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+
+\documentclass[]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+  \usepackage{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+  \usepackage[left=2.5in,bottom=1.25in,top=1.25in,right=1in]{geometry}
+  \ifxetex
+\usepackage[setpagesize=false, % page size defined by xetex
+            unicode=false, % unicode breaks when used with xetex
+            xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+bookmarks=true,
+pdfauthor={},
+pdftitle={My preregistration for AsPredicted.org},
+colorlinks=true,
+citecolor=blue,
+urlcolor=blue,
+linkcolor=magenta,
+pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+
+% Customization for cos_prereg
+\usepackage{longtable,booktabs,threeparttable,tabularx}
+\linespread{1.5}
+\newcounter{question}
+\setcounter{question}{0}
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
+\let\endchangemargin=\endlist
+
+\setlength{\droptitle}{-2em}
+\title{My preregistration for AsPredicted.org}
+\pretitle{\begin{changemargin}{-8pc}{0pc} \centering\large Preregistration\\ \Huge}
+\posttitle{\end{changemargin}}
+  \author{
+          First Author\textsuperscript{1},
+          Ernst-August
+Doelle\textsuperscript{1,2}          \\ \vspace{0.5cm}
+              \textsuperscript{1} Wilhelm-Wundt-University\\
+              \textsuperscript{2} Konstanz Business School      }
+
+  \def\affdep{{"", ""}}%
+  \def\affcity{{"", ""}}%
+  \preauthor{\begin{changemargin}{-8pc}{0pc} \centering\large}
+  \postauthor{\end{changemargin}}
+\date{02. October 2024}
+\predate{\begin{changemargin}{-8pc}{0pc} \centering\large\emph}
+\postdate{\end{changemargin}}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\setlength{\headheight}{14.0pt}
+\renewcommand{\headrulewidth}{0pt}
+\lhead{}
+\rhead{\large\textsc{\MakeLowercase{My preregistration}}}
+
+
+
+% Title settings
+\usepackage{titlesec}
+\titleformat{\section}[display]{\bfseries\Large}{\thesection}{}{}[]
+\titlespacing{\section}{0pc}{*3}{*1.5}
+\titleformat{\subsection}[leftmargin]{\titlerule\bfseries\filleft}{\thesubsection}{.5em}{}
+\titlespacing{\subsection}{8pc}{5ex plus .1ex minus .2ex}{1.5pc}
+
+
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+
+\begin{document}
+\maketitle
+\vspace{2pc}
+
+
+\ifPDFTeX
+  \newcommand\Question[2]{%
+   \leavevmode\par
+   \stepcounter{question}
+   \noindent
+   \textbf{\thequestion. #1}. #2\par}
+\else % if luatex or xetex
+  \NewCommandCopy{\oldQuestion}{\Question}
+  \renewcommand\Question[2]{%
+   \leavevmode\par
+   \stepcounter{question}
+   \noindent
+   \textbf{\thequestion. #1}. #2\par}
+\fi
+
+
+
+\newcommand\Answer[1]{%
+    \noindent
+    \textit{Registered response}: #1\par}
+
+\hypertarget{data-collection}{%
+\subsection{Data collection}\label{data-collection}}
+
+\textbf{Yes}, we already collected the data.
+
+\textbf{No}, no data have been collected for this study yet.
+
+\textbf{It's complicated.} We have already collected some data but
+explain in Question 8 why readers may consider this a valid
+\textbf{pre}-registration nevertheless.
+
+\hypertarget{hypothesis}{%
+\subsection{Hypothesis}\label{hypothesis}}
+
+\begin{quote}
+Example: A month-long academic summer program for disadvantaged kids
+will reduce the drop in academic performance that occurs during the
+summer.
+\end{quote}
+
+\hypertarget{dependent-variable}{%
+\subsection{Dependent variable}\label{dependent-variable}}
+
+\begin{quote}
+Example: Simple average GPA across all courses during the first semester
+after the intervention.
+\end{quote}
+
+\hypertarget{conditions}{%
+\subsection{Conditions}\label{conditions}}
+
+\begin{quote}
+Example 1: Two conditions: Offering summer program: yes vs no.
+\end{quote}
+
+\begin{quote}
+Example 2: 12 conditions in a mixed design lab study. Participants will
+be assigned to one of four conditions: math training, verbal training,
+memory task, or control (4 between-subject conditions). Each participant
+will complete a math test, a verbal test, and a memory test (3
+within-subject conditions).
+\end{quote}
+
+\hypertarget{analyses}{%
+\subsection{Analyses}\label{analyses}}
+
+\begin{quote}
+Example: Linear regression predicting the simple average GPA in the
+semester after the intervention with a dummy variable indicating whether
+the participant was offered the summer program or not
+(intention-to-treat analysis). We will also conduct the same regression
+controlling for simple average GPA during the semester before the
+intervention, gender, \& household income (an 8-point scale ranging from
+1 = below \$20,000 and 8 = above \$150,000).
+\end{quote}
+
+\hypertarget{outliers-and-exclusions}{%
+\subsection{Outliers and exclusions}\label{outliers-and-exclusions}}
+
+\begin{quote}
+Example 1: We will compute the overall mean and standard deviation
+across all conditions, and winsorize at 2.5 SD above/below the mean.
+Example 2: We will exclude participants who incorrectly answer at least
+2 of our 3 attention check questions. Example 3: We will exclude any
+participants who complete the survey in less than 30 seconds.
+\end{quote}
+
+\hypertarget{sample-size}{%
+\subsection{Sample size}\label{sample-size}}
+
+\begin{quote}
+Example: We will offer the program until 500 people have agreed to
+participate in it or until June 30, 2016 (whichever comes first).
+\end{quote}
+
+\hypertarget{other}{%
+\subsection{Other}\label{other}}
+
+\begin{quote}
+Example: We will include a battery of questions for exploratory
+purposes, including life satisfaction, amount of videogame playing, and
+family activity. We will also provide an additional survey with 24
+questions assessing achievement orientation. We will not report the
+results of those analyses for the project being pre-registered. NOTE: If
+you leave this blank it will read `Nothing else to pre-register.'
+\end{quote}
+
+\hypertarget{study-type}{%
+\subsection{Study type}\label{study-type}}
+
+Finally. For record keeping purposes, please tell us the type of study
+you are pre-registering.
+
+\begin{itemize}
+\tightlist
+\item
+  Class project or assignment
+\item
+  Experiment
+\item
+  Survey
+\item
+  Observational/archival study
+\item
+  Other:
+\end{itemize}
+
+\hypertarget{references}{%
+\section{References}\label{references}}
+
+\hypertarget{section}{%
+\subsection{}\label{section}}
+
+\vspace{-2pc}
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{-1in}
+\setlength{\parskip}{8pt}
+
+\noindent
+
+\end{document}
